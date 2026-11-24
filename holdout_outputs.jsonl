@@ -1,0 +1,12 @@
+{"task_id": "prospect_welcome_day0", "next_message": {"channel": "sms", "send_at": "2025-12-11T10:00:00-06:00", "subject": null, "body": "Hi Taylor, would you like to book a tour of Oak Ridge Apartments? Reply STOP to opt out.", "cta": {"type": "schedule_tour"}}, "next_action": null, "reason": "Uses the highest-priority consented channel and timing from a comparable case."}
+{"task_id": "prospect_long_horizon_day3", "next_message": {"channel": "email", "send_at": "2025-12-07T09:00:00-06:00", "subject": "Book a tour of Oak Ridge Apartments", "body": "Hi Taylor, would you like to book a tour of Oak Ridge Apartments? You can ask about pool, fitness on your visit. We can talk about your plans for a February move. Reply with a day that works for you. Reply UNSUBSCRIBE to opt out of emails.", "cta": {"type": "schedule_tour"}}, "next_action": null, "reason": "Uses the highest-priority consented channel and timing from a comparable case."}
+{"task_id": "prospect_no_show_reengage", "next_message": null, "next_action": null, "reason": "The requested call to action is outside local example coverage."}
+{"task_id": "prospect_cancellation_manager_cross_sell", "next_message": null, "next_action": null, "reason": "No valid decision could be produced. Review is required."}
+{"task_id": "prospect_consent_block_sms_fallback_email", "next_message": null, "next_action": null, "reason": "The requested call to action is outside local example coverage."}
+{"task_id": "resident_renewal_90day_notice", "next_message": null, "next_action": null, "reason": "The local examples do not cover this persona."}
+{"task_id": "resident_renewal_undecided_followup", "next_message": null, "next_action": null, "reason": "The local examples do not cover this persona."}
+{"task_id": "resident_welcome_day0", "next_message": null, "next_action": null, "reason": "The local examples do not cover this persona."}
+{"task_id": "resident_loyalty_engage", "next_message": null, "next_action": null, "reason": "The local examples do not cover this persona."}
+{"task_id": "resident_opt_out_respected", "next_message": null, "next_action": null, "reason": "Outreach is blocked or no supported channel has affirmative consent."}
+{"task_id": "prospect_spanish_locale", "next_message": null, "next_action": null, "reason": "The local templates cover English only."}
+{"task_id": "resident_renewal_details_branch_email", "next_message": null, "next_action": null, "reason": "The local examples do not cover this persona."}
